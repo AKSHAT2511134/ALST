@@ -1,0 +1,30 @@
+{
+  "project_info": {
+    "project_number": "437481099478",
+    "firebase_url": "https://laser-signature-machine-default-rtdb.firebaseio.com",
+    "project_id": "laser-signature-machine",
+    "storage_bucket": "laser-signature-machine.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:437481099478:android:078cbdabeee2cc27b9f977",
+        "android_client_info": {
+          "package_name": "com.example.laser_signature_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDHazL6gRJPZXgv-iIlcNFG9RZ8SXXeDPY"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
